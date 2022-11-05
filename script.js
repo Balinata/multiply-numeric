@@ -10,3 +10,4 @@ obj[key] *= 2;
 }
 }
 }
+multiplyNumeric(menu);
